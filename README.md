@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm focusing on personal growth and self-improvement.<br><br>🌱 I'm diving into Next.js to expand my skillset.<br><br>👨‍💻 You can explore all my projects at <br><br>💬 Feel free to ask me anything about the MERN stack.<br><br>📫 Want to get in touch? Here's how: amanpandey5961@gmail.com
+🔭 I'm focusing on personal growth and self-improvement.<br><br>🌱 I'm diving into Next.js to expand my skillset.<br><br>👨‍💻 You can explore all my projects at <br><br>💬 Feel free to ask me anything about the trending tech.<br><br>📫 Want to get in touch? Here's how: amanpandey5961@gmail.com
 
 
 # 💻 Tech Stack:
